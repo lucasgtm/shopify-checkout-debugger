@@ -1,0 +1,4 @@
+homepage: "https://www.data-marketing-school.com"
+versions:
+  - sha: d6c62bf5dc8c2fd2aa65deeb5676eb33fd8c34ce
+    changeNotes: Initial release.
